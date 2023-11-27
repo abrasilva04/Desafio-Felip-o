@@ -1,1 +1,1 @@
-codig
+console.log("olá");
